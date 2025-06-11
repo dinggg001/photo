@@ -1,0 +1,339 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="917pt" height="948pt" viewBox="0.00 0.00 917.15 947.99">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 943.99)">
+<title>a</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-943.99 913.15,-943.99 913.15,4 -4,4"/>
+<!-- movie -->
+<g id="node1" class="node">
+<title>movie</title>
+<polygon fill="none" stroke="black" points="185.15,-484.44 131.15,-484.44 131.15,-448.44 185.15,-448.44 185.15,-484.44"/>
+<text text-anchor="middle" x="158.15" y="-462.24" font-family="Times,serif" font-size="14.00">movie</text>
+</g>
+<!-- movie_ID -->
+<g id="node2" class="node">
+<title>movie_ID</title>
+<ellipse fill="none" stroke="black" cx="190.29" cy="-354.44" rx="50.19" ry="18"/>
+<text text-anchor="middle" x="190.29" y="-350.24" font-family="Times,serif" font-size="14.00">movie_ID</text>
+</g>
+<!-- movie&#45;&#45;movie_ID -->
+<g id="edge1" class="edge">
+<title>movie--movie_ID</title>
+<path fill="none" stroke="black" d="M163.46,-447.95C169.45,-427.07 179.14,-393.33 185.09,-372.59"/>
+</g>
+<!-- title -->
+<g id="node3" class="node">
+<title>title</title>
+<ellipse fill="none" stroke="black" cx="39.35" cy="-436.66" rx="27" ry="18"/>
+<text text-anchor="middle" x="39.35" y="-432.46" font-family="Times,serif" font-size="14.00">title</text>
+</g>
+<!-- movie&#45;&#45;title -->
+<g id="edge2" class="edge">
+<title>movie--title</title>
+<path fill="none" stroke="black" d="M130.9,-459.61C111.03,-454.63 84.3,-447.93 64.85,-443.06"/>
+</g>
+<!-- type -->
+<g id="node4" class="node">
+<title>type</title>
+<ellipse fill="none" stroke="black" cx="135.58" cy="-584.17" rx="27.66" ry="18"/>
+<text text-anchor="middle" x="135.58" y="-579.97" font-family="Times,serif" font-size="14.00">type</text>
+</g>
+<!-- movie&#45;&#45;type -->
+<g id="edge3" class="edge">
+<title>movie--type</title>
+<path fill="none" stroke="black" d="M154.63,-484.84C150.39,-506.95 143.31,-543.85 139.08,-565.9"/>
+</g>
+<!-- runtime -->
+<g id="node5" class="node">
+<title>runtime</title>
+<ellipse fill="none" stroke="black" cx="73.47" cy="-373.17" rx="41.07" ry="18"/>
+<text text-anchor="middle" x="73.47" y="-368.97" font-family="Times,serif" font-size="14.00">runtime</text>
+</g>
+<!-- movie&#45;&#45;runtime -->
+<g id="edge4" class="edge">
+<title>movie--runtime</title>
+<path fill="none" stroke="black" d="M141.42,-448.01C126.19,-431.24 103.88,-406.66 89.03,-390.3"/>
+</g>
+<!-- release_date -->
+<g id="node6" class="node">
+<title>release_date</title>
+<ellipse fill="none" stroke="black" cx="73.37" cy="-571.52" rx="58.75" ry="18"/>
+<text text-anchor="middle" x="73.37" y="-567.32" font-family="Times,serif" font-size="14.00">release_date</text>
+</g>
+<!-- movie&#45;&#45;release_date -->
+<g id="edge5" class="edge">
+<title>movie--release_date</title>
+<path fill="none" stroke="black" d="M143.39,-484.75C127.73,-504.15 103.17,-534.59 87.69,-553.78"/>
+</g>
+<!-- director -->
+<g id="node7" class="node">
+<title>director</title>
+<ellipse fill="none" stroke="black" cx="41.06" cy="-509.14" rx="41.06" ry="18"/>
+<text text-anchor="middle" x="41.06" y="-504.94" font-family="Times,serif" font-size="14.00">director</text>
+</g>
+<!-- movie&#45;&#45;director -->
+<g id="edge6" class="edge">
+<title>movie--director</title>
+<path fill="none" stroke="black" d="M130.7,-476.45C113.4,-482.76 90.99,-490.93 72.9,-497.53"/>
+</g>
+<!-- starring -->
+<g id="node8" class="node">
+<title>starring</title>
+<ellipse fill="none" stroke="black" cx="130.79" cy="-332.46" rx="40.54" ry="18"/>
+<text text-anchor="middle" x="130.79" y="-328.26" font-family="Times,serif" font-size="14.00">starring</text>
+</g>
+<!-- movie&#45;&#45;starring -->
+<g id="edge7" class="edge">
+<title>movie--starring</title>
+<path fill="none" stroke="black" d="M154.41,-448.09C149.17,-422.43 139.71,-376.12 134.5,-350.58"/>
+</g>
+<!-- show -->
+<g id="node29" class="node">
+<title>show</title>
+<polygon fill="none" stroke="black" points="291.26,-517.31 246.82,-499.31 291.26,-481.31 335.7,-499.31 291.26,-517.31"/>
+<text text-anchor="middle" x="291.26" y="-495.11" font-family="Times,serif" font-size="14.00">show</text>
+</g>
+<!-- movie&#45;&#45;show -->
+<g id="edge26" class="edge">
+<title>movie--show</title>
+<path fill="none" stroke="black" d="M185.41,-473.17C208.08,-478.77 240.22,-486.71 263.12,-492.36"/>
+<text text-anchor="middle" x="220.77" y="-486.97" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- customer -->
+<g id="node9" class="node">
+<title>customer</title>
+<polygon fill="none" stroke="black" points="783.11,-148.5 715.79,-148.5 715.79,-112.5 783.11,-112.5 783.11,-148.5"/>
+<text text-anchor="middle" x="749.45" y="-126.3" font-family="Times,serif" font-size="14.00">customer</text>
+</g>
+<!-- c_ID -->
+<g id="node10" class="node">
+<title>c_ID</title>
+<ellipse fill="none" stroke="black" cx="878.81" cy="-133.72" rx="30.34" ry="18"/>
+<text text-anchor="middle" x="878.81" y="-129.52" font-family="Times,serif" font-size="14.00">c_ID</text>
+</g>
+<!-- customer&#45;&#45;c_ID -->
+<g id="edge8" class="edge">
+<title>customer--c_ID</title>
+<path fill="none" stroke="black" d="M783.44,-131.35C803.5,-131.85 828.69,-132.47 848.15,-132.96"/>
+</g>
+<!-- name -->
+<g id="node11" class="node">
+<title>name</title>
+<ellipse fill="none" stroke="black" cx="810.97" cy="-32.65" rx="31.95" ry="18"/>
+<text text-anchor="middle" x="810.97" y="-28.45" font-family="Times,serif" font-size="14.00">name</text>
+</g>
+<!-- customer&#45;&#45;name -->
+<g id="edge9" class="edge">
+<title>customer--name</title>
+<path fill="none" stroke="black" d="M761.02,-112.1C772.23,-94.27 789.1,-67.45 800.07,-49.99"/>
+</g>
+<!-- phone -->
+<g id="node12" class="node">
+<title>phone</title>
+<ellipse fill="none" stroke="black" cx="691.33" cy="-18" rx="34.64" ry="18"/>
+<text text-anchor="middle" x="691.33" y="-13.8" font-family="Times,serif" font-size="14.00">phone</text>
+</g>
+<!-- customer&#45;&#45;phone -->
+<g id="edge10" class="edge">
+<title>customer--phone</title>
+<path fill="none" stroke="black" d="M739.99,-112.18C729.05,-91.01 711.18,-56.42 700.41,-35.58"/>
+</g>
+<!-- buy -->
+<g id="node27" class="node">
+<title>buy</title>
+<polygon fill="none" stroke="black" points="681.63,-253.79 645.54,-235.79 681.63,-217.79 717.73,-235.79 681.63,-253.79"/>
+<text text-anchor="middle" x="681.63" y="-231.59" font-family="Times,serif" font-size="14.00">buy</text>
+</g>
+<!-- customer&#45;&#45;buy -->
+<g id="edge22" class="edge">
+<title>customer--buy</title>
+<path fill="none" stroke="black" d="M737.64,-148.84C724.2,-169.7 702.57,-203.28 690.5,-222.02"/>
+<text text-anchor="middle" x="710.57" y="-189.63" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- hall -->
+<g id="node13" class="node">
+<title>hall</title>
+<polygon fill="none" stroke="black" points="542.37,-820.44 488.37,-820.44 488.37,-784.44 542.37,-784.44 542.37,-820.44"/>
+<text text-anchor="middle" x="515.37" y="-798.24" font-family="Times,serif" font-size="14.00">hall</text>
+</g>
+<!-- hall_ID -->
+<g id="node14" class="node">
+<title>hall_ID</title>
+<ellipse fill="none" stroke="black" cx="497.24" cy="-921.99" rx="40.54" ry="18"/>
+<text text-anchor="middle" x="497.24" y="-917.79" font-family="Times,serif" font-size="14.00">hall_ID</text>
+</g>
+<!-- hall&#45;&#45;hall_ID -->
+<g id="edge11" class="edge">
+<title>hall--hall_ID</title>
+<path fill="none" stroke="black" d="M512.58,-820.85C509.16,-843.39 503.41,-881.29 500,-903.75"/>
+</g>
+<!-- mode -->
+<g id="node15" class="node">
+<title>mode</title>
+<ellipse fill="none" stroke="black" cx="415.9" cy="-886.71" rx="32.49" ry="18"/>
+<text text-anchor="middle" x="415.9" y="-882.51" font-family="Times,serif" font-size="14.00">mode</text>
+</g>
+<!-- hall&#45;&#45;mode -->
+<g id="edge12" class="edge">
+<title>hall--mode</title>
+<path fill="none" stroke="black" d="M493.79,-820.72C475.96,-835.82 450.94,-857.02 434.11,-871.28"/>
+</g>
+<!-- capacity -->
+<g id="node16" class="node">
+<title>capacity</title>
+<ellipse fill="none" stroke="black" cx="643.82" cy="-818.98" rx="43.2" ry="18"/>
+<text text-anchor="middle" x="643.82" y="-814.78" font-family="Times,serif" font-size="14.00">capacity</text>
+</g>
+<!-- hall&#45;&#45;capacity -->
+<g id="edge13" class="edge">
+<title>hall--capacity</title>
+<path fill="none" stroke="black" d="M542.61,-805.94C559.99,-808.18 582.85,-811.13 602.45,-813.65"/>
+</g>
+<!-- location -->
+<g id="node17" class="node">
+<title>location</title>
+<ellipse fill="none" stroke="black" cx="594.32" cy="-893.51" rx="42.14" ry="18"/>
+<text text-anchor="middle" x="594.32" y="-889.31" font-family="Times,serif" font-size="14.00">location</text>
+</g>
+<!-- hall&#45;&#45;location -->
+<g id="edge14" class="edge">
+<title>hall--location</title>
+<path fill="none" stroke="black" d="M531.35,-820.87C545.4,-837.08 565.71,-860.51 579.43,-876.34"/>
+</g>
+<!-- arrange -->
+<g id="node30" class="node">
+<title>arrange</title>
+<polygon fill="none" stroke="black" points="485.52,-693.8 428.98,-675.8 485.52,-657.8 542.07,-675.8 485.52,-693.8"/>
+<text text-anchor="middle" x="485.52" y="-671.6" font-family="Times,serif" font-size="14.00">arrange</text>
+</g>
+<!-- hall&#45;&#45;arrange -->
+<g id="edge28" class="edge">
+<title>hall--arrange</title>
+<path fill="none" stroke="black" d="M511.03,-784.02C505.27,-759.6 495.19,-716.82 489.58,-693.02"/>
+<text text-anchor="middle" x="496.8" y="-742.72" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- schedule -->
+<g id="node18" class="node">
+<title>schedule</title>
+<polygon fill="none" stroke="black" points="469.32,-549.34 404.34,-549.34 404.34,-513.34 469.32,-513.34 469.32,-549.34"/>
+<text text-anchor="middle" x="436.83" y="-527.14" font-family="Times,serif" font-size="14.00">schedule</text>
+</g>
+<!-- schedule_ID -->
+<g id="node19" class="node">
+<title>schedule_ID</title>
+<ellipse fill="none" stroke="black" cx="362.31" cy="-610.27" rx="59.84" ry="18"/>
+<text text-anchor="middle" x="362.31" y="-606.07" font-family="Times,serif" font-size="14.00">schedule_ID</text>
+</g>
+<!-- schedule&#45;&#45;schedule_ID -->
+<g id="edge15" class="edge">
+<title>schedule--schedule_ID</title>
+<path fill="none" stroke="black" d="M419.54,-549.65C407.33,-562.58 391.06,-579.82 378.99,-592.61"/>
+</g>
+<!-- date -->
+<g id="node20" class="node">
+<title>date</title>
+<ellipse fill="none" stroke="black" cx="436.17" cy="-614.29" rx="27.12" ry="18"/>
+<text text-anchor="middle" x="436.17" y="-610.09" font-family="Times,serif" font-size="14.00">date</text>
+</g>
+<!-- schedule&#45;&#45;date -->
+<g id="edge16" class="edge">
+<title>schedule--date</title>
+<path fill="none" stroke="black" d="M436.68,-549.75C436.57,-563.49 436.43,-582.2 436.32,-595.93"/>
+</g>
+<!-- time -->
+<g id="node21" class="node">
+<title>time</title>
+<ellipse fill="none" stroke="black" cx="450.39" cy="-425.87" rx="28.2" ry="18"/>
+<text text-anchor="middle" x="450.39" y="-421.67" font-family="Times,serif" font-size="14.00">time</text>
+</g>
+<!-- schedule&#45;&#45;time -->
+<g id="edge17" class="edge">
+<title>schedule--time</title>
+<path fill="none" stroke="black" d="M439.19,-512.97C441.68,-493.61 445.58,-463.31 448.05,-444.03"/>
+</g>
+<!-- price -->
+<g id="node22" class="node">
+<title>price</title>
+<ellipse fill="none" stroke="black" cx="394.31" cy="-448.76" rx="30.34" ry="18"/>
+<text text-anchor="middle" x="394.31" y="-444.56" font-family="Times,serif" font-size="14.00">price</text>
+</g>
+<!-- schedule&#45;&#45;price -->
+<g id="edge18" class="edge">
+<title>schedule--price</title>
+<path fill="none" stroke="black" d="M427.39,-513.01C420.2,-499.04 410.36,-479.93 403.28,-466.19"/>
+</g>
+<!-- number -->
+<g id="node23" class="node">
+<title>number</title>
+<ellipse fill="none" stroke="black" cx="535.36" cy="-558.67" rx="40.54" ry="18"/>
+<text text-anchor="middle" x="535.36" y="-554.47" font-family="Times,serif" font-size="14.00">number</text>
+</g>
+<!-- schedule&#45;&#45;number -->
+<g id="edge19" class="edge">
+<title>schedule--number</title>
+<path fill="none" stroke="black" d="M469.64,-540.44C479.6,-543.2 490.58,-546.25 500.66,-549.05"/>
+</g>
+<!-- belongs -->
+<g id="node28" class="node">
+<title>belongs</title>
+<polygon fill="none" stroke="black" points="551.29,-458.8 493.2,-440.8 551.29,-422.8 609.38,-440.8 551.29,-458.8"/>
+<text text-anchor="middle" x="551.29" y="-436.6" font-family="Times,serif" font-size="14.00">belongs</text>
+</g>
+<!-- schedule&#45;&#45;belongs -->
+<g id="edge24" class="edge">
+<title>schedule--belongs</title>
+<path fill="none" stroke="black" d="M459.99,-513.02C482.07,-495.55 514.79,-469.68 534.47,-454.1"/>
+<text text-anchor="middle" x="493.73" y="-487.76" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- ticket -->
+<g id="node24" class="node">
+<title>ticket</title>
+<polygon fill="none" stroke="black" points="681.86,-381.82 627.86,-381.82 627.86,-345.82 681.86,-345.82 681.86,-381.82"/>
+<text text-anchor="middle" x="654.86" y="-359.62" font-family="Times,serif" font-size="14.00">ticket</text>
+</g>
+<!-- ticket_ID -->
+<g id="node25" class="node">
+<title>ticket_ID</title>
+<ellipse fill="none" stroke="black" cx="763.99" cy="-441.88" rx="47.5" ry="18"/>
+<text text-anchor="middle" x="763.99" y="-437.68" font-family="Times,serif" font-size="14.00">ticket_ID</text>
+</g>
+<!-- ticket&#45;&#45;ticket_ID -->
+<g id="edge20" class="edge">
+<title>ticket--ticket_ID</title>
+<path fill="none" stroke="black" d="M680.73,-382.32C699.13,-395.49 723.63,-413.01 741.28,-425.63"/>
+</g>
+<!-- seat_num -->
+<g id="node26" class="node">
+<title>seat_num</title>
+<ellipse fill="none" stroke="black" cx="766.3" cy="-362.75" rx="48.05" ry="18"/>
+<text text-anchor="middle" x="766.3" y="-358.55" font-family="Times,serif" font-size="14.00">seat_num</text>
+</g>
+<!-- ticket&#45;&#45;seat_num -->
+<g id="edge21" class="edge">
+<title>ticket--seat_num</title>
+<path fill="none" stroke="black" d="M682.12,-363.56C692.95,-363.46 705.73,-363.33 718.03,-363.22"/>
+</g>
+<!-- buy&#45;&#45;ticket -->
+<g id="edge23" class="edge">
+<title>buy--ticket</title>
+<path fill="none" stroke="black" d="M678.13,-252.52C673.12,-276.52 663.91,-320.54 658.71,-345.42"/>
+<text text-anchor="middle" x="664.92" y="-303.17" font-family="Times,serif" font-size="14.00">n</text>
+</g>
+<!-- belongs&#45;&#45;ticket -->
+<g id="edge25" class="edge">
+<title>belongs--ticket</title>
+<path fill="none" stroke="black" d="M568.86,-427.74C585.71,-415.22 611.32,-396.19 630.21,-382.15"/>
+<text text-anchor="middle" x="596.03" y="-409.15" font-family="Times,serif" font-size="14.00">n</text>
+</g>
+<!-- show&#45;&#45;schedule -->
+<g id="edge27" class="edge">
+<title>show--schedule</title>
+<path fill="none" stroke="black" d="M320.72,-505.79C344.81,-511.09 378.86,-518.59 403.86,-524.09"/>
+<text text-anchor="middle" x="358.79" y="-519.14" font-family="Times,serif" font-size="14.00">n</text>
+</g>
+<!-- arrange&#45;&#45;schedule -->
+<g id="edge29" class="edge">
+<title>arrange--schedule</title>
+<path fill="none" stroke="black" d="M479.94,-659.23C470.74,-631.96 452.49,-577.82 442.96,-549.53"/>
+<text text-anchor="middle" x="464.95" y="-591.78" font-family="Times,serif" font-size="14.00">n</text>
+</g>
+</g>
+</svg>
